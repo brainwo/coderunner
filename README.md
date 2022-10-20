@@ -19,9 +19,10 @@ To add more supported language, kindly contribute either by ticketing an issue o
 
 ## Upcoming Support
 
-| Language   | Description                                                         |
-| ---------- | ------------------------------------------------------------------- |
-| [mun][mun] | Currently has no prebuilt binaries or installation option via Cargo |
+| Language             | Description                                                         |
+| -------------------- | ------------------------------------------------------------------- |
+| [mun][mun]           | Currently has no prebuilt binaries or installation option via Cargo |
+| [singlang][singlang] | Currently unmaintained and has no binary releases                   |
 
 ## Development
 
