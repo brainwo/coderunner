@@ -4,50 +4,12 @@ import os
 import subprocess
 import discord
 from discord.message import Message
+from coderunner.lang import LANG
 
 intents = discord.Intents.default()
 intents.message_content = True
 
 client = discord.Client(intents=intents)
-
-LANG = {
-    "python": {
-        "command": "python3",
-        "format": "py"
-    },
-    "py": {
-        "command": "python3",
-        "format": "py"
-    },
-    "jaksel": {
-        "command": "jaksel",
-        "format": "jaksel"
-    },
-    "javascript": {
-        "command": "node",
-        "format": "js"
-    },
-    "js": {
-        "command": "node",
-        "format": "js"
-    },
-    "typescript": {
-        "command": "node",
-        "format": "ts"
-    },
-    "ts": {
-        "command": "node",
-        "format": "ts"
-    },
-    "lua": {
-        "command": "lua",
-        "format": "lua"
-    },
-    "julia": {
-        "command": "julia",
-        "format": "jl"
-    }
-}
 
 
 @client.event
