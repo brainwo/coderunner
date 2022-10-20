@@ -4,7 +4,7 @@
 
 ## Language Supported
 
-To add more supported language, kindly contribute either with ticketing an issue or send a pull request. Current supported languages:
+To add more supported language, kindly contribute either by ticketing an issue or send a pull request. Current supported languages:
 
 | Language   | Alias          | Runtime          |
 | ---------- | -------------- | ---------------- |
