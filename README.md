@@ -16,6 +16,12 @@ To add more supported language, kindly contribute either by ticketing an issue o
 | julia      | julia          | julia            |
 | duckscript | ds, duckscript | [duck][duck]     |
 
+## Upcoming Support
+
+| Language   | Description                                                          |
+| ---------- | -------------------------------------------------------------------- |
+| [mun][mun] | Currently have no prebuilt binaries or installation option via Cargo |
+
 ## Development
 
 Some development dependecies used in this project are:
@@ -40,3 +46,4 @@ DISCORD_TOKEN=<your bot token here>
 
 [jaksel]: https://github.com/RioChndr/jaksel-language
 [duck]: https://github.com/sagiegurari/duckscript
+[mun]: https://github.com/mun-lang/mun
