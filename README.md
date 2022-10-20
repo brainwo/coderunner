@@ -50,3 +50,4 @@ DISCORD_TOKEN=<your bot token here>
 [duck]: https://github.com/sagiegurari/duckscript
 [mun]: https://github.com/mun-lang/mun
 [wren]: https://github.com/wren-lang/wren
+[singlang]: https://github.com/frizensami/singlang
