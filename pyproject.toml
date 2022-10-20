@@ -1,14 +1,13 @@
 [tool.poetry]
 name = "coderunner"
 version = "0.1.0"
-description = ""
+description = " Run code in Discord chat"
 authors = ["Brian Wo <45139213+brainwo@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
 "discord.py" = "^2.0.1"
-
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.0.81"
