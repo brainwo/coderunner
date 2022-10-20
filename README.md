@@ -15,6 +15,7 @@ To add more supported language, kindly contribute either by ticketing an issue o
 | lua        | lua            | lua              |
 | julia      | julia          | julia            |
 | duckscript | ds, duckscript | [duck][duck]     |
+| wren       | wren           | [wren][wren]     |
 
 ## Upcoming Support
 
@@ -47,3 +48,4 @@ DISCORD_TOKEN=<your bot token here>
 [jaksel]: https://github.com/RioChndr/jaksel-language
 [duck]: https://github.com/sagiegurari/duckscript
 [mun]: https://github.com/mun-lang/mun
+[wren]: https://github.com/wren-lang/wren

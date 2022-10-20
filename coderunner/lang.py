@@ -42,5 +42,9 @@ LANG = {
     "duckscript": {
         "command": "duck",
         "format": "ds"
+    },
+    "wren": {
+        "command": "wren",
+        "format": "wren",
     }
 }
