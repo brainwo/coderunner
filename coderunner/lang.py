@@ -46,5 +46,13 @@ LANG = {
     "wren": {
         "command": "wren",
         "format": "wren",
+    },
+    "fnl": {
+        "command": "fennel",
+        "format": "fnl"
+    },
+    "fennel": {
+        "command": "fennel",
+        "format": "fnl"
     }
 }

@@ -16,6 +16,7 @@ To add more supported language, kindly contribute either by ticketing an issue o
 | julia      | julia          | julia            |
 | duckscript | ds, duckscript | [duck][duck]     |
 | wren       | wren           | [wren][wren]     |
+| fennel     | fnl, fennel    | [fennel][fennel] |
 
 ## Upcoming Support
 
@@ -51,3 +52,4 @@ DISCORD_TOKEN=<your bot token here>
 [mun]: https://github.com/mun-lang/mun
 [wren]: https://github.com/wren-lang/wren
 [singlang]: https://github.com/frizensami/singlang
+[fennel]: https://github.com/bakpakin/Fennel
