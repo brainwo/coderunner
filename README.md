@@ -27,7 +27,7 @@ To add more supported language, kindly contribute either by ticketing an issue o
 
 ## Development
 
-Some development dependecies used in this project are:
+Some development dependencies used in this project includes:
 
 -   [poetry](https://github.com/python-poetry/poetry)
 -   [just](https://github.com/casey/just)
